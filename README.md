@@ -2,7 +2,7 @@
 
 > **Headline:** Focusing on revenue rank alone would send TrailBlaze's budget to the wrong places. Camping Gear leads on revenue, but Accessories earns the most per dollar sold (66% margin), and Footwear combines the highest return rate (6.7%) with the lowest margin (49.9%).
 
-![TrailBlaze dashboard](dashboard-screenshot.png)
+![TrailBlaze dashboard](dashboard-screenshot.PNG)
 
 **Capstone project | HerTechTrail Data Analytics Starter Project | PostgreSQL, Power BI, DAX**
 
