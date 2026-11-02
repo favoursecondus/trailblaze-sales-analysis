@@ -84,6 +84,6 @@ A one-page Power BI dashboard with:
 | `trailblaze_sql_queries.sql` | All 23 SQL queries |
 | `TrailBlaze_Executive_Dashboard.pbix` | Power BI dashboard file |
 | `TrailBlaze_Executive_Dashboard.pdf` | PDF export of the dashboard |
-| `dashboard-screenshot.png` | Dashboard preview |
+| `dashboard-screenshot.PNG` | Dashboard preview |
 
 **Author:** Favour Udochi Secondus
